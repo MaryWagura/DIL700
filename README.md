@@ -79,5 +79,5 @@ The final project involves applying deep learning techniques to solve a specific
 * **Tools:** Jupyter Notebooks, Anaconda
 
 ---
-*Author: [Your Name]*
+*Author: Mwagura*
 *Course: DIL700*
